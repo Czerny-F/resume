@@ -6,8 +6,8 @@
 |||
 |---|---|
 |Name|本村 あおい|
-|Twitter|(@_a0i)[https://twitter.com/_a0i]|
-|Qiita|(@blux2)[https://qiita.com/blux2]|
+|Twitter|[@\_a0i](https://twitter.com/_a0i)|
+|Qiita|[@blux2](https://qiita.com/blux2)|
 |blog|[腹は減る](https://blux.hatenablog.com)|
 |terminal|zshell|
 |editor|neovim|
