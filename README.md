@@ -8,9 +8,9 @@
 |Name|本村 あおい|
 |Twitter|[@\_a0i](https://twitter.com/_a0i)|
 |Qiita|[@blux2](https://qiita.com/blux2)|
-|blog|[腹は減る](https://blux.hatenablog.com)|
-|terminal|zshell|
-|editor|neovim|
+|Blog|[腹は減る](https://blux.hatenablog.com)|
+|Shell|Z Shell|
+|Editor|Neovim|
 
 ## 職務経歴書
 
@@ -22,7 +22,7 @@
 
 ### 得意業務
 - AWSを用いたアプリケーションのインフラ環境構築
-- ansibleを用いたInfrastructure as Codeの実現
+- Ansibleを用いたInfrastructure as Codeの実現
 
 ### 新規クラウドサービス開発(2017/11 - 現在)
 
@@ -30,16 +30,16 @@
 - プロジェクト規模：社員30名（委託20名)
 - 担当：インフラ環境構築
   - 各開発者が検討した本番環境用システム設計を元にAWS上にテスト・ステージング・本番環境の構築を実施
-    - 社内制約による各環境の差異を元にcloudformationを用いて構築
-  - nginxサーバーの設置、アプリ開発者の要件を元に設定の実施
+    - 社内制約による各環境の差異を元にCloudFormationを用いて構築
+  - Nginxサーバーの設置、アプリ開発者の要件を元に設定の実施
   - 社内向けログ可視化webサイトも作成
 - 実績・取り組み
   - 各開発者にInfrastracture as Code, DevOpsやAWSなど環境構築に必要な考え方や知識を広めるべく勉強会を実施
     - その他開発者間の知見共有、新規技術キャッチアップのための勉強会も企画・運営
   - 開発者間のコミュニケーションコストを削減し開発を効率化するためにmattermostを設置し、普及活動を実施
-  - jenkins・ansibleを用いてgitlabのpush毎に自動で環境構築可能にし、環境構築の異常を早期発見した
+  - Jenkins・Ansibleを用いてGitLabのpush毎に自動で環境構築可能にし、環境構築の異常を早期発見した
 - 使用技術
-  - Redhat/CentOS, Java, python(botに使用), nginx, tomcat, Vue.js, nuxt.js (ログ可視化サイトに使用), shellscript, AWS(EC2, Aurora, ELB etc), git, docker
+  - Redhat/CentOS, Java, Python(botに使用), Nginx, Tomcat, Vue.js, Nuxt.js (ログ可視化サイトに使用), Shell script, AWS(EC2, Aurora, ELB etc), Git, Docker
 
 ### オフィス向けロボットの価値検証(2017/01 - 2017/10)
 
@@ -54,7 +54,7 @@
   - SXSW, Ceatecに出展し、ユーザーからの意見を元に社長に商品開発の提案を実施
   - 自ら価値検証内容を企画し、他社（東急エージェンシー）でも価値検証を実施
 - 使用技術
-  - raspberry pi, python, google speech API, react, javascript, nodejs
+  - Raspberry Pi, Python, Google Speech API, React, JavaScript, Node.js
 
 ### Web統合情報管理システムの機能拡張開発・保守（2015/4 - 2016/12)
 
@@ -67,7 +67,7 @@
   - 新規バージョンの目玉機能を開発し、営業の説明会で説明および質疑応答を行った
   - チームリーダーおよび先輩社員が途中で抜けたものの、スケジュール策定、工数見積、作業の割り振りを工夫することでQCDを達成
 - 使用技術
-  - Java, tomcat, Windows Server, Oracle, jquery, JSP, SVN, selenium
+  - Java, Tomcat, Windows Server, Oracle DB, JQuery, JSP, Subversion, Selenium
 
 ### コンテンツ配信基盤の新規開発・保守・運用(2014/07 - 2015/03)
 
@@ -96,7 +96,7 @@
   - 性能テストの実施を外部委託するための活動を行い、性能テストにかかる費用削減
   - 性能におけるボトルネックを調査し、性能向上の実現
 - 使用技術
-  - Linux, ruby(調査用ツール), Java, JSP, JSF, Spring, Oracle, SVN, tomcat, Web Sphere MQ
+  - Linux, Ruby(調査用ツール), Java, JSP, JSF, Spring Framework, Oracle DB, Subversion, Tomcat, Web Sphere MQ
 
 ## スキル
 
@@ -106,23 +106,23 @@
 2016/04 TOEIC 905点
 
 ### 言語
-- shellscript：実務で利用
+- Shell script：実務で利用
   - サーバー上に設置するツールの開発
   - 運用向けツールの開発
-- python：簡単なプログラムが書ける
+- Python：簡単なプログラムが書ける
   - Flaskを用いたWebアプリケーションの開発
-  - opencvを用いた簡単なプロトタイプ開発
-- javascript：実務で利用
-  - node.js, nuxt.js, Vue.jsを用いた社内ツールの開発
-  - ajax, jquery, JSPを用いた商品開発
-  - socket.ioを用いたプロライプ開発
+  - OpenCVを用いた簡単なプロトタイプ開発
+- JavaScript：実務で利用
+  - Node.js, Nuxt.js, Vue.jsを用いた社内ツールの開発
+  - Ajax, JQuery, JSPを用いた商品開発
+  - Socket.IOを用いたプロライプ開発
   - 趣味のbot製作のためにGoogle App Scriptを用いた開発
 - Java：実務で利用
   - 5年以上の商品開発の経験
-  - Springを用いた商品開発
+  - Spring Frameworkを用いた商品開発
 - Ruby: 簡単なプログラムが書ける
   - 性能測定に利用するツールの作成
-- GO：簡単なプログラムが書ける
+- Go：簡単なプログラムが書ける
   - 社内向けツールの実装
 
 ### OS
@@ -132,23 +132,23 @@
   - 開発マシンはUbuntu, RedHat・CentOSは環境構築、ログ調査の実務経験あり
 
 ### DB
-- Oracle
+- Oracle DB
 - MySQL
-- postgresql
+- PostgreSQL
 
 ### その他ミドルウェア・サーバーなど
 - Tomcat
-- Mavec
-- SVN
-- git
-- gradle
-- jenkins
+- Maven
+- Subversion
+- Git
+- Gradle
+- Jenkins
 - Redmine
 - JIRA
 
 ## その他趣味
 
-- netlifyを用いた静的ページの作成
+- Netlifyを用いた静的ページの作成
 - 漫画を描く
 
 ## 自己PR/興味
@@ -159,9 +159,9 @@
 - AWSを用いたインフラ環境構築
   - 新規サービス時に自ら希望し、インフラチームに移動となった
   - 環境構築では絶対に失敗するという経験を活かし、Infrastructure as Codeを学習し実践。
-- terminalの中で生活したい
-  - 社内標準PCはWindows 7だが、UNIXベースのOSで開発がしたかったため、Ubuntuを利用して開発している
-  - neovimを使用し、なるべくterminalの中で開発が完結するようにしている
+- CLIの中で生活したい
+  - 社内標準PCはWindows 7だが、UNIXライクOSで開発がしたかったため、Ubuntuを利用して開発している
+  - Neovimを使用し、なるべくCLIの中で開発が完結するようにしている
 - SREを目指したい
   - インフラチームでの経験を元により良いユーザー体験を提供する仕事を目指したい
 
